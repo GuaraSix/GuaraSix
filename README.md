@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:FF6B00,100:0d0d0d&height=250&section=header&text=GUARA%20SIX&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=Arquitetura%20%7C%20SaaS%20%7C%20Inteligência%20Artificial&descAlignY=65&descSize=18&animation=fadeIn&stroke=FF6B00&strokeWidth=2" width="100%"/>
+# GUARA SIX
 
-</div>
+### Arquitetura · SaaS · Inteligência Artificial
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=750&height=45&lines=Sistemas+que+Escalam+com+Seu+Negócio+🚀;Arquiteturas+Robustas+e+de+Alto+Desempenho+⚡;SaaS+%2B+Inteligência+Artificial+Integrada+🤖;Segurança%2C+Performance+e+Eficiência+Máxima+🔒)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Sistemas+que+Escalam+com+Seu+Negócio+🚀;Arquiteturas+Robustas+e+de+Alto+Desempenho+⚡;SaaS+%2B+Inteligência+Artificial+Integrada+🤖;Segurança%2C+Performance+e+Eficiência+Máxima+🔒)](https://git.io/typing-svg)
-
-</div>
 
 <br/>
 
@@ -29,7 +26,7 @@
 
 <br/>
 
-## 🦊 &nbsp;Quem Somos
+## 🦊 &nbsp;Quem Somos?
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="matrix animation"/>
 
@@ -92,7 +89,7 @@ Entregamos **soluções estratégicas** que acompanham a evolução do seu negó
     </td>
     <td align="center" width="220px">
       <br/>
-      <img width="55" src="https://img.icons8.com/fluency/55/protect.png"/>
+      <img width="55" src="https://img.icons8.com/fluency/55/shield.png"/>
       <br/><br/>
       <b>Segurança & DevOps</b>
       <br/><br/>
@@ -214,19 +211,6 @@ Entregamos **soluções estratégicas** que acompanham a evolução do seu negó
 
 <br/>
 
-## 📊 &nbsp;GitHub Analytics
-
-<br/>
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=GuaraSix&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&border_color=FF6B00&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuaraSix&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF6B00&text_color=ffffff&border_color=FF6B00&langs_count=8"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
